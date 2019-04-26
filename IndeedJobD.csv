@@ -1,0 +1,123 @@
+Rec,city,job,salary,company,Expertise,Recruiter
+13,New York,Data Analyst - Cardiology,33650,Columbia University,Hadoop & Big Data,Angela Wilson
+16,New York,Associate Research Scientist,120000,Columbia University,IIB,Gerald Bell
+18,New York,Research and Brand Strategy Apprentice,147500,Insight Strategy Group,Salesforce,Jose Robinson
+22,New York,City Research Scientist II,77975,City of New York,.Net & UI,Dennis Sanchez
+23,New York,Business Intelligence Engineer,150000,Amazon Corporate LLC,SQL,Ryan Edwards
+25,New York,Data Engineer,135000,Paperless Post,Andriod,Walter Mitchell
+26,New York,Research Data Associate,120000,NYU Langone Medical Center,Python,Michele Gordon
+28,New York,"Senior Analyst, Quantitative Research",140000,Kelton Global,Full Stack Java & UI,Jose Robinson
+31,New York,"Research Engineer, Senior",175000,Yahoo! Inc.,Machine learning,Ryan Edwards
+34,New York,"Research Analyst - Robotics, AI and Machine Learning",82500,Lux Research,IOS,Walter Mitchell
+35,New York,Quantitative Analyst,135000,Markit Financial Info Service,IOS,Ryan Edwards
+36,New York,Senior Data Scientist,115000,Socure,Full Stack Java & UI,Walter Mitchell
+40,New York,Lead Data Scientist,135000,ASCAP,Java,Scott Simmons
+41,New York,Research Analyst,200000,United Hospital Fund of New York,Mulesoft,Dennis Sanchez
+53,New York,Software Engineer/Dev OPS,100000,Digital Reasoning,Full Stack Java & UI,Walter Mitchell
+62,New York,Marketing Manager,120000,Climb,IOS,Dennis Sanchez
+64,New York,Cognitive Software Developer,200000,Weill Cornell Medical College,Java,Dennis Sanchez
+66,New York,Research Scientist: Control Systems,200000,AreteX Systems,Andriod,Terry Morgan
+68,New York,Sr. Business Intelligence Engineer,100000,2U,Andriod,Michele Gordon
+78,New York,Quantitative Business Analyst,60000,JEG Search,Networking,Dennis Sanchez
+80,New York,ITS Service Desk Team Lead,40000,Weill Cornell Medical College,Full Stack Java & UI,Roger Collins
+83,New York,Director of Data Science,117437.5,Movable Ink,SAP,Terry Morgan
+84,New York,Product Development Manager,71764,Bloomberg,IIB,Stephen Anderson
+88,New York,Quantitative Analyst (Fundamental Quant Equities) - Hedge Fu...,200000,Datacom Technology Group,Full Stack Java & UI,Roger Collins
+90,White Plains,"Research Analyst, Perinatal Data Center",58000,March of Dimes,Salesforce,Dennis Sanchez
+99,New York,Account Executive - Razorfish Health,115000,Publicis Healthcare Communications Group,Full Stack Java & UI,Roger Collins
+103,Chicago,Marketing Research Analyst,75000,Bobit Business Media,Andriod,"DOUGLAS	FISHER"
+104,Chicago,Lead Data Scientist - Video/Images,110000,GE Transportation,BA,Stephen Anderson
+105,Northbrook,"Real World Informatics and Analytics (RWI), Head of Analytic...",120000,Astellas Pharmaceuticals,Andriod,Roger Collins
+106,Chicago,Part-time Data Science Instructor,56871,General Assembly,Full Stack Java & UI,Peter Roberts
+110,Chicago,Data Scientist - Statistics,115185.5,Civis Analytics,SAP,Roger Collins
+112,Chicago,Research Professional,110000,University of Chicago,.Net & UI,Dennis Sanchez
+115,Deerfield,Senior Statistician,150000,BAXTER,.Net & UI,"DOUGLAS	FISHER"
+117,Chicago,Associate Quantitative Research Analyst,180000,GinasTechJobs.com,RPA,Peter Roberts
+118,Chicago,Director of Data Science,41600,Trunk Club,DevOps & AWS,Gerald Bell
+119,Chicago,Corporate Credit Research Analyst,180000,Morningstar,Java,Stephen Anderson
+127,Northbrook,"Assistant Director, Cloud Analytics Strategy",110000,Astellas Pharmaceuticals,Java,Dennis Sanchez
+132,Chicago,Academic Python Developer,87500,Jobspring Partners,DevOps,Roger Collins
+134,Chicago,Manager / Director of Predictive Modeling,115000,Analytic Recruiting,BIG Data,Peter Roberts
+137,Chicago,Construction Manager-Data Center/Mission Critical Facilities,37440,HDR,Mulesoft,Jose Robinson
+140,Evanston,"Associate Director, Professional Development",87500,Northwestern University,Data Analyst,Frank Wright
+142,Chicago,Senior DevOps Engineer,85000,Strategic IT Staffing,BIG Data,Dennis Sanchez
+200,San Francisco,Indoor Environmental Data Scientist,176800,Aclima,SAP PI/PO,Gerald Bell
+207,San Francisco,Data Scientist - Forecasting,65000,"Rodan & Fields, LLC",SQLBI,Loretta Henry
+208,San Francisco,Data Engineer,157500,Opendoor,Data Analyst,Frank Wright
+219,San Bruno,"Product Analyst, Data Science",145000,Google,Data Science,"DENNIS	CARTER"
+256,San Francisco,Software Engineer (Performance & Data),165000,"Magic Leap, Inc.",Data Science,Roger Collins
+259,San Francisco,Analyst - Sales Ops & Finance,180000,Mode,.Net & UI,LARRY CARTER
+260,San Francisco,Medical Review Specialist,104000,NESC Staffing Corp,Frontend Developer,"DENNIS	CARTER"
+266,San Francisco,Field Application Specialist Representative,90000,Perkin Elmer,Data Analyst,"DOUGLAS	FISHER"
+268,San Francisco,Product Manager,111774,Virta Health,Data Science,Peter Roberts
+273,San Francisco,Visual Interaction Designer,180000,Element Analytics,Java,Gerald Bell
+283,San Francisco,Data Science (Human Computation),160000,Workbridge Associates,Data Science,Frank Wright
+291,San Francisco,"Senior Technical Product Manager, Data Pipeline",95000,Metabiota,Tableau,"DENNIS	CARTER"
+297,San Francisco,"Senior Software Engineer, Data Science",145000,Marin Software,SQLBI,Roger Collins
+299,San Francisco,"Manager, Translational Development Operations (Biospecimen M...",150000,Celgene,QA,Peter Roberts
+300,Portland,Research Analyst I/II,51409,Moses Lake Industries,BIG Data,Roger Collins
+302,Portland,Forensic Scientist 1 (FS1 & FS Entry) Chemistry (Portland),64638,State of Oregon,SQLBI,"DENNIS	CARTER"
+429,Issaquah,FISH AND WILDLIFE BIOLOGIST 2 *11007H,49110,State of Washington,Salesforce,Andrew Green
+435,Bellevue,Software Engineer,145834,eBay,Oracle DBA,Frank Wright
+440,Seattle,Molecular Technologist - FISH/Cytogenetics,75366,PhenoPath Laboratories,Websphere,Gerald Bell
+445,Bellevue,Senior Industrial Wastewater Engineer,108472,MWH,Networking,Peter Roberts
+452,Seattle,Senior Scientist - Analytical Development,50136,BMS,IOS,Roger Collins
+457,Bellevue,Quality Service Specialist,63012,HDR,SQL,"Carl	Parker"
+459,Seattle,"Manager, Machine Learning",75366,Amazon Corporate LLC,.Net & UI,Frank Wright
+465,Seattle,Director of Customer Promise,75366,Amazon Corporate LLC,IOS,Raymond Adams
+470,Seattle,SR. NETWORK ENGINEER,50136,University of Washington,DevOps,Roger Collins
+472,Seattle,Senior Program Manager,42090,Socrata,IOS,"DOUGLAS	FISHER"
+473,Seattle,"Sr. Manager, Forecasting",59304,"Amazon Fulfillment Services, Inc.",Mulesoft,Stephen Anderson
+479,Seattle,Front End SDE - Emerging AWS Machine Learning,43140,Amazon Corporate LLC,.Net & UI,"Carl	Parker"
+508,Chatsworth,Research Analyst,55000,Phillips Graduate University,IOS,Gerald Bell
+512,Pasadena,Machine Learning Research Scientist,97476,Datalogic,UI,Peter Roberts
+516,Burbank,Office Manager/Administrative Assistant,104708.5,Applied Invention,IOS,Frank Wright
+518,Pasadena,Associate Application Developer - Global Product Technology,75864,ADP,Python,Stephen Anderson
+520,El Segundo,Looking for a Research Analyst,64213,Kaleo Software,SQL,Roger Collins
+522,Los Angeles,"MEDICAL TECHNOLOGIST, DATA SYSTEMS",88765,Los Angeles County Department of Human Resources,SAP,"DENNIS	CARTER"
+523,Burbank,Software Engineer (Machine Learning/Algorithm Development,105000,Workbridge Associates,.Net & UI,"DOUGLAS	FISHER"
+533,Los Angeles,Account Executive - Southern CA,84495.5,Socrata,Data Analyst,Frank Wright
+540,El Segundo,Structural Dynamics Engineer,63700,The Aerospace Corporation,BIG Data,Stephen Anderson
+604,Plymouth Meeting,Statistician,155000,IMS Health,Java,Scott Simmons
+609,Philadelphia,Technology Graduate Entry Scheme: Software Engineer 1,55000,Reed Elsevier,Python,Roger Collins
+611,Spring House,Scientist - Mammalian Cells,60000,Collab Infotech,Andriod,Michele Gordon
+618,Philadelphia,Data Scientist needed for Tech Medical Company!,135200,Jobspring Partners,Python,Roger Collins
+629,Newtown,Market Research Analyst,110000,iMarketResearch LLC,IBM Websphere,Frank Wright
+637,Philadelphia,Full Stack Software Engineer,100000,JUNO Search Partners,Data Science,Jeanette Howell
+640,Philadelphia,Patient Flow Clinical Supervisor,83200,Thomas Jefferson University Hospital,Oracle DBA,Gerald Bell
+700,Atlanta,Senior Data Scientist,101553.5,Vesta Corporation,Python,Roger Collins
+701,Alpharetta,Data Scientist,51706,Verizon,Mulesoft,Loretta Henry
+705,Atlanta,Informatics Technical Specialist,150000,"Beckman Coulter, Inc.",Java,Frank Wright
+708,Atlanta,Data Manager,24000,Northrop Grumman,Data Science,Terry Morgan
+709,Atlanta,Quality Assurance Specialist,85500,Battelle,Android,Andrew Green
+714,Atlanta,"Senior Research and Statistical Methodologist - Atlanta, GA",85399,ICF,SQL,Frank Wright
+716,Atlanta,"Technical Curriculum Developer, Google Cloud Platform",32240,Google,.Net & UI,Roger Collins
+720,Norcross,"Controls Engineer Norcross, GA",112500,OFS FITEL LLC,Andriod,Gerald Bell
+722,Atlanta,Biologist/Chemist,65000,Karna LLC,Python,Terry Morgan
+724,Roswell,Geologist or Environmental Scientist - Mid Level,69900,Groundwater & Environmental Services,.Net & UI,Frank Wright
+800,Irving,Data Scientist - Speech Recognition,180000,"Resolvity, Inc",Java,Michele Gordon
+802,Dallas,Data Analytics Scien Lv 2-PCCI,72800,Parkland Hospital,Java,Andrew Green
+803,Plano,Big Data Technical Intern I,24960,AT & T,Java,Scott Simmons
+804,Irving,Data Scientist,60000,Incedo,Full Stack Java & UI,Frank Wright
+808,Plano,Big Data Technical Co-Op I,85000,AT & T,Quality Analyst,Loretta Henry
+812,Irving,Sr. Quantitative Analyst,95000,TPA Technologies,Python,Terry Morgan
+814,Plano,4337 -Database developer/DBA experience @Multiple location,97500,"ReqRoute,Inc",Java,Andrew Green
+821,Irving,"Technologist, Medical / Scientist - (PT 24hrs, Sat & Sun) Ir...",46800,Quest Diagnostics,Salesforce,Scott Simmons
+842,Plano,Statistical Analyst,180000,STATinMED Research,Java,Gerald Bell
+900,Pittsburgh,Data Scientist Opportunities,40014,Highmark Health,Quality Analyst,Stephen Anderson
+903,Pittsburgh,Associate Scientist,40014,UPMC,AWS,"DOUGLAS	FISHER"
+904,Pittsburgh,Clinical Research Program Coordinator,52884,The University of Pittsburgh,Andriod,Terry Morgan
+907,Pittsburgh,POST-DOCTORAL POSITION IN POPULATION NEUROSCIENCE OF AGING,75500,University of Pittsburgh Graduate School of Public...,Java,Jack Morris
+1034,Portland,Research Analyst I/II,51409,Moses Lake Industries,DevOps,Loretta Henry
+1112,San Diego,QC Analytical Development Scientist,54360.8,Vital Therapies Inc.,Data Analyst,Michele Gordon
+1118,La Jolla,Programmer/Research Assistant,27040,Center for Applied Internet Data Analysis (CAIDA),SQL,Frank Wright
+1125,San Diego,Biologist-Flow Cytometry Core,140000,Eli Lilly and Company,Quality Analyst,Gerald Bell
+1132,San Diego,"Research Associate/Associate Scientist, Structural Biology",100000,Dart NeuroScience LLC,Hadoop,Terry Morgan
+1200,Denver,Statistical Analyst,70075.2,Penn Schoen Berland,AWS,"JUSTIN	WALLACE"
+1204,Buckley AFB,R & D Scientist,90854.5,National Geospatial-Intelligence Agency,Data Analyst,Stephen Anderson
+1207,Boulder,Data Scientist (Curriculum Developer / Instructor),107500,RefactorU,Hadoop & Big Data,"JUSTIN	WALLACE"
+1208,Denver,"Big Data Developer (Spark, Hadoop, Hive)",105000,10Roof Technology,.Net & UI,Stephen Anderson
+1214,Boulder,Senior Project Engineer,68000,Otak,DevOps,"JUSTIN	WALLACE"
+1229,Boulder,Technical Intern-Optical Engineer (659632),65934,Ball Aerospace,DevOps & AWS,Loretta Henry
+1300,Post Falls,Development Scientist III,70000,ALK Source Materials,Data Analyst,Jeanette Howell
+1409,Tampa,"Marketing Pursuit Manager - Healthcare market | Tampa, FL",100000,"Gresham, Smith and Partners.",QA,Cathy Chapman
